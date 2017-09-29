@@ -1,4 +1,5 @@
-# AWS_RESIZE_BOILERPLATE - Production ready S3 - Lambda image resizer and optimizer boilerplate
+# AWS_RESIZE_BOILERPLATE
+### A Production ready serverless image resizer and optimizer
 The motivation behind this project is to offer a well documented boilerplate for setting up a serverless image processing (resizing) and optimization (compression) service. If you are a noob with DevOps, AWS or Docker, this project will be a good ground to gain familarity, and at the same time offers a production ready implementation for optimized images resizing.
 
 ##  Overview
