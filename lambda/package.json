@@ -1,0 +1,19 @@
+{
+  "name": "aws_resize_boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate to optimize and resize images efficiently and serverless.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^5.3.1",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-pngquant": "^5.0.1"
+  },
+  "bundledDependencies": [
+    "gm"
+  ]
+}
